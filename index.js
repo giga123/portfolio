@@ -228,7 +228,7 @@ function portfolioComponent () {
 	}
 
   function openNewTab() {
-    var url = ""
+    var url = "https://giga123.github.io/quiz/"
     var win = window.open(url, '_blank')
     win.focus()
   }
